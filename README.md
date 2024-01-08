@@ -29,9 +29,7 @@ Clone this repository.
 Navigate to the project directory.
 Compile the C++ code using your preferred compiler.
 Run the executable to interact with the analysis features.
-## Additional Information
 
-(Provide any relevant links, citations, or acknowledgements here)
 ## Contact
 
 Feel free to reach out with any questions or feedback!
